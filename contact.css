@@ -78,4 +78,49 @@ p{
     gap: 10px;
 }
 
+.bottom{
+    width: 100%;
+    height: 50px;
+    background-color: none;
+    border: none;
+    top: auto;
+    bottom: 15px;
+    margin: 0%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons{
+    width: 300px;
+    height: 50px;
+    background-color: none;
+    border: none;
+    display: flex;
+    justify-content: space-around;
+    top: auto;
+    bottom: 15px;
+}
+
+.icon{
+    width: 40px;
+    height: 45px;
+    border: none ;
+    background-color: white;
+    opacity: .4;
+}
+
+.copy{
+    width: 400px;
+    height: 50px;
+    background-color: none;
+    border: none;
+    bottom: 15px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
 
